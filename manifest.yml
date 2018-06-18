@@ -1,5 +1,5 @@
 ---
 applications:
-- name: HelloWorldApp11
+- name: WMSChatbotApp
   memory: 64m
   instances: 1
